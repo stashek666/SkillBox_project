@@ -1,0 +1,15 @@
+secret_data.py
+/__pycache__/
+/.idea/
+op/
+/Scripts/
+/Lib/
+/pyvenv.cfg
+/config.py
+/GridTradingBot.py
+/ByBitClient.py
+/pybit.log
+/Trading.py
+/csv_extractor.py
+/secret_data.py
+/venv/
